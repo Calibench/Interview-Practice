@@ -15,7 +15,7 @@ This creates a "humps" effect, alternating between uppercase and lowercase lette
 
 ### How it works:
 
-#### assign3 Class:
+#### interviewQ1 Class:
 
 **Methods**:<br/>
 **main(String[] args)**:<br/>
