@@ -1,2 +1,2 @@
 # Interview-Practice
-Just some programs I wrote to practice for interviews
+Just some programs to practice for interviews
